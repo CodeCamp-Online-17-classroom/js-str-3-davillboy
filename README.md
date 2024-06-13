@@ -7,3 +7,5 @@ let str = 'javascript'
 
 ucFirst(str) //Javascript
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
